@@ -1,3 +1,9 @@
+# Ignore everything
+*
+# But upload the contents of the code folders
+!*/code/
+
+
 # History files
 .Rhistory
 .Rapp.history
